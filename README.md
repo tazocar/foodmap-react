@@ -4,15 +4,13 @@
 # Foodies React
 ***
 Foodies busca informar a los amantes de la comida sobre sus opciones de restaurantes más cercanos a travez de una aplicación web responsive de uso intuitivo.
+
+![](./src/images/foodies.png)
 ***
 
 ### Uso
 + Ingresa a [Foodies](https://meliveloz.github.io/foodmap-react)
 + Heroku [Foodies](https://fathomless-retreat-74717.herokuapp.com/)
-
-### Ejemplo
-
-![](./src/images/foodies.png)
 
 ### Requerimientos Técnicos
 
