@@ -1,8 +1,4 @@
-[![GitHub issue age](https://img.shields.io/badge/created-March%202018-31C285.svg)](https://github.com/meliveloz/foodmap-react) ![licence](https://img.shields.io/badge/license-ISC-1F618D.svg) [![npm](https://img.shields.io/badge/npm-v8.9.0-orange.svg)]() ![npm](https://img.shields.io/badge/author-TankoVeloz-C0225C.svg)[![React](https://img.shields.io/badge/created-Javascript%202018-31C285.svg)](https://github.com/meliveloz/foodmap-react)
-
-
 # Foodies React
-***
 Foodies busca informar a los amantes de la comida sobre sus opciones de restaurantes más cercanos a travez de una aplicación web responsive de uso intuitivo.
 
 ![](./src/images/foodies.png)
