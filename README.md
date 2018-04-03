@@ -28,4 +28,4 @@ El proyecto fue realizado con las siguientes dependencias:
 
 ![](./src/images/wireframe.png)
 
-
+## Desarrollado para [Laboratoria](http://www.laboratoria.la)
