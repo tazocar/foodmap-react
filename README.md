@@ -1,7 +1,7 @@
 # Foodies React
 Foodies busca informar a los amantes de la comida sobre sus opciones de restaurantes más cercanos a travez de una aplicación web responsive de uso intuitivo.
 
-![image](./src/images/foodies.png)
+![image](https://i.imgur.com/CVEMVnH.png)
 ***
 
 ### Uso
